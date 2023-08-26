@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on GSoft's Internal Developer Platform
+- 🔭 I’m currently working on Workleap's Internal Developer Platform
 - 🌱 I’m currently learning OpenTelemetry and platform engineering
 - 👯 I'm trying to contribute to the .NET open source ecosystem
 - 💬 Ask me about .NET, C#, Azure DevOps or developer experience
